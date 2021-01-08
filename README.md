@@ -1,3 +1,6 @@
+After forking this repository, replace `orion_username` in the file `2d_unet_CT_W_PET.json` with your actual orion username.
+
+
 # Setup in Orion cluster
 The `$HOME` directory of your login machine (`[username@login ~]`) should have the following structure
 ```
